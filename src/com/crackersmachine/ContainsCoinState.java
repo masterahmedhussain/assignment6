@@ -26,7 +26,7 @@ public class ContainsCoinState implements CrackerState{
     }
     @Override
     public void ritzCracker() {
-        // TODO Auto-generated method stub
+        System.out.println("Press the buttorn first");
         
     }
 }
